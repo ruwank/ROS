@@ -35,7 +35,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LoginActivity extends ActionBarActivity {
-
+///
     public static final String TAG = LoginActivity.class.getSimpleName();
 
     private String username = "Reliance";
